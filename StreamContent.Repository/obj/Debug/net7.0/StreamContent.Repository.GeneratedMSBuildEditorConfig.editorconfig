@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = StreamContent.Repository
-build_property.ProjectDir = c:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\11_StreamingContent\StreamContent.Repository\
+build_property.ProjectDir = C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\11_StreamingContent\StreamContent.Repository\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "u5bO+ro8Is+HjU5VNZam/csMskUGHd6dTCphIsJ6jW9Lpsem6pX1iDGL5AGD2z/e+nlbEcDBIB4CCNCfjaO/CQ==",
+  "dgSpecHash": "iH18DzYCkYFZzBvz5/FpZyt9/8Rm3V6FvYO3WVJITKw1CV7NzoWRasymj03KTtThGMLFwRaWX1bntwmmDcCPPA==",
   "success": true,
   "projectFilePath": "c:\\ElevenFiftyProjects_175\\codingFoundations\\dotnetProjects\\csharpBasics\\11_StreamingContent\\StreamContent.Repository\\StreamContent.Repository.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Tinka\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.9\\microsoft.netcore.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\Tinka\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.9\\microsoft.windowsdesktop.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\Tinka\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.9\\microsoft.aspnetcore.app.ref.7.0.9.nupkg.sha512"
+  ],
   "logs": []
 }

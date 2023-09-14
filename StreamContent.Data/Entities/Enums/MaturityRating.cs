@@ -2,8 +2,7 @@ namespace StreamContent.Data.Entities.Enums
 {
     public enum MaturityRating
     {
-      
-        G,
+        G = 1,
         PG,
         PG_13,
         R,

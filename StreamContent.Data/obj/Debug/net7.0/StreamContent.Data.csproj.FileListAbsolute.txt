@@ -9,3 +9,4 @@ C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\11_Stre
 C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\11_StreamingContent\StreamContent.Data\obj\Debug\net7.0\refint\StreamContent.Data.dll
 C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\11_StreamingContent\StreamContent.Data\obj\Debug\net7.0\StreamContent.Data.pdb
 C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\11_StreamingContent\StreamContent.Data\obj\Debug\net7.0\ref\StreamContent.Data.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\11_StreamingContent\StreamContent.Data\obj\Debug\net7.0\StreamContent.Data.sourcelink.json

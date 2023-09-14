@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "StreamingContent_UI/1.0.0": {
+        "dependencies": {
+          "StreamContent.Data": "1.0.0",
+          "StreamContent.Repository": "1.0.0"
+        },
+        "runtime": {
+          "StreamingContent_UI.dll": {}
+        }
+      },
+      "StreamContent.Data/1.0.0": {
+        "runtime": {
+          "StreamContent.Data.dll": {}
+        }
+      },
+      "StreamContent.Repository/1.0.0": {
+        "dependencies": {
+          "StreamContent.Data": "1.0.0"
+        },
+        "runtime": {
+          "StreamContent.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StreamingContent_UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StreamContent.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StreamContent.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

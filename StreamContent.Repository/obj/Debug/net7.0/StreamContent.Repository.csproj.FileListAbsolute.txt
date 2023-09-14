@@ -13,3 +13,4 @@ C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\11_Stre
 C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\11_StreamingContent\StreamContent.Repository\obj\Debug\net7.0\refint\StreamContent.Repository.dll
 C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\11_StreamingContent\StreamContent.Repository\obj\Debug\net7.0\StreamContent.Repository.pdb
 C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\11_StreamingContent\StreamContent.Repository\obj\Debug\net7.0\ref\StreamContent.Repository.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\11_StreamingContent\StreamContent.Repository\obj\Debug\net7.0\StreamContent.Repository.sourcelink.json
