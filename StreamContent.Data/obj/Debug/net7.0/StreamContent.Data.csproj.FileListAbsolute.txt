@@ -1,0 +1,11 @@
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\11_StreamingContent\StreamContent.Data\obj\Debug\net7.0\StreamContent.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\11_StreamingContent\StreamContent.Data\obj\Debug\net7.0\StreamContent.Data.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\11_StreamingContent\StreamContent.Data\obj\Debug\net7.0\StreamContent.Data.AssemblyInfo.cs
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\11_StreamingContent\StreamContent.Data\obj\Debug\net7.0\StreamContent.Data.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\11_StreamingContent\StreamContent.Data\bin\Debug\net7.0\StreamContent.Data.deps.json
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\11_StreamingContent\StreamContent.Data\bin\Debug\net7.0\StreamContent.Data.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\11_StreamingContent\StreamContent.Data\bin\Debug\net7.0\StreamContent.Data.pdb
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\11_StreamingContent\StreamContent.Data\obj\Debug\net7.0\StreamContent.Data.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\11_StreamingContent\StreamContent.Data\obj\Debug\net7.0\refint\StreamContent.Data.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\11_StreamingContent\StreamContent.Data\obj\Debug\net7.0\StreamContent.Data.pdb
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\11_StreamingContent\StreamContent.Data\obj\Debug\net7.0\ref\StreamContent.Data.dll

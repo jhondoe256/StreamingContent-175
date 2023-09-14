@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "StreamContent.Data/1.0.0": {
+        "runtime": {
+          "StreamContent.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StreamContent.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
